@@ -1,0 +1,12 @@
+02/10/2023 NOTES:
+- Copied the HTML and CSS files from Flexbox project
+- Applied necessary classes to all other pages for Flexbox to take effect
+- Fixed all headers and footers for all pages (same as index.html)
+
+02/13/2023 NOTES:
+- Deciding whether to include the whole file into the flexbox sample or create a new one with /paradise crossing name on Github
+- Edit <title> on <head> per page
+- Edit About
+-- Removed some titles
+-- merged some articles
+
