@@ -12,3 +12,4 @@
 
 02/17/2023 NOTES:
 - Fixed some code to connect HTML to CSS
+- removed all references to "html" folder from all pages
