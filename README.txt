@@ -13,3 +13,10 @@
 02/17/2023 NOTES:
 - Fixed some code to connect HTML to CSS
 - removed all references to "html" folder from all pages
+- changed ".../styles.css" to "styles.css"
+- deleted "html" folder/directory
+- removed all references to "images" folder from all images 
+- removed all references to "images" folder from all images (favicon)
+- uploaded all images without the "images" folder
+- deleted "images" folder/directory
+- removed all references to "images" folder from all images from styles.css
