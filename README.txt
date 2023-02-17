@@ -20,3 +20,4 @@
 - uploaded all images without the "images" folder
 - deleted "images" folder/directory
 - removed all references to "images" folder from all images from styles.css
+- changed favicon code from type="image/x-icon" to type="image/png" to see if the favicon appears
