@@ -59,7 +59,7 @@ nav a {
 /* LEFT SIDEBAR */
 
 .left-sidebar {
-  background-image: url("images/falling_leaves.png");
+  background-image: url("falling_leaves.png");
   padding: 2rem 3rem;
 }
 
@@ -87,14 +87,14 @@ figcaption {
 /* MAIN */
 
 .main {
-  background: url("images/animalcrossingbgpink.png"), no-repeat;
+  background: url("animalcrossingbgpink.png"), no-repeat;
   padding: 2rem 3rem;
 }
 
 /* RIGHT SIDEBAR */
 
 .right-sidebar {
-  background: url("images/animalcrossingbggreen.png");
+  background: url("animalcrossingbggreen.png");
   padding: 2rem 3rem;
 }
 
