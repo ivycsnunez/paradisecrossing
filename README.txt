@@ -21,3 +21,6 @@
 - deleted "images" folder/directory
 - removed all references to "images" folder from all images from styles.css
 - changed favicon code from type="image/x-icon" to type="image/png" to see if the favicon appears
+
+10/09/2023 NOTES:
+- Replace Animal Crossing Pocket Camp image in Wild World page with the correct image.
